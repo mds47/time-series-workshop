@@ -7,7 +7,7 @@ You need to have Python 2.7 installed and be able to include the following libra
 
 ### Linux / Mac Setup
 ```
-pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose, scikit-learn
+pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose scikit-learn
 ```
 
 ### Windows Setup
